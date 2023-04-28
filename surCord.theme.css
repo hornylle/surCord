@@ -19,7 +19,7 @@
 ;MMMMMMMMMMMMMMMMMMMMMMMM:       DE: ImagineAPlace
 :MMMMMMMMMMMMMMMMMMMMMMMM:       WM: Vozer
 .MMMMMMMMMMMMMMMMMMMMMMMMX.      WM Theme: Blurple
- kMMMMMMMMMMMMMMMMMMMMMMMMWd.    Font: San Fransisco Bold
+ kMMMMMMMMMMMMMMMMMMMMMMMMWd.    Font: San Fransisco Display
  .XMMMMMMMMMMMMMMMMMMMMMMMMMMk   Memory: #7673MiB / 8192MiB
   .XMMMMMMMMMMMMMMMMMMMMMMMMK.   
     kMMMMMMMMMMMMMMMMMMMMMMd      
@@ -94,7 +94,7 @@ code, .codeBlockText-28BOxV, .codeLine-2C-9aH, .markup-eYLPri code.inline, .afte
   text-transform: none !important;
   letter-spacing: 0.015em;
 
-  font-weight: bold !important;
+  /* font-weight: bold !important; */
 }
 
 /* 
